@@ -1,0 +1,16 @@
+org.processing
+org.sbfc.converter
+org.sbfc.converter.exceptions
+org.sbfc.converter.models
+org.sbfc.converter.sbml2apm
+org.sbfc.converter.sbml2biopax
+org.sbfc.converter.sbml2dot
+org.sbfc.converter.sbml2graphml
+org.sbfc.converter.sbml2octave
+org.sbfc.converter.sbml2sbgnml
+org.sbfc.converter.sbml2sbml
+org.sbfc.converter.sbml2xpp
+org.sbfc.converter.svg
+org.sbfc.converter.utils.sbgn
+org.sbfc.converter.utils.sbml.sbmlannotation
+org.util.graphviz
