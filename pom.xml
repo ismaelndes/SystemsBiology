@@ -19,8 +19,18 @@
   <dependencies>
   	<dependency>
 		<groupId>org.biopax.paxtools</groupId>
-		<artifactId>paxtools-archetype</artifactId>
+		<artifactId>paxtools-core</artifactId>
 		<version>4.3.1</version>
+	</dependency>
+	<dependency>
+		<groupId>org.biopax.paxtools</groupId>
+		<artifactId>sif-converter</artifactId>
+		<version>4.3.1</version>
+	</dependency>
+	<dependency>
+		<groupId>log4j</groupId>
+		<artifactId>log4j</artifactId>
+		<version>1.2.17</version>
 	</dependency>
   </dependencies>
 </project>
