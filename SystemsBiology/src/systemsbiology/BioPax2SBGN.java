@@ -7,12 +7,13 @@ package systemsbiology;
 
 import java.io.File;
 
+
 /**
  *
  * @author Samuel Benavides García
  */
 public class BioPax2SBGN {
   public File bioPax2SBGN(String filein){
-    return null;
+    return bioPax2SBGN(filein);
   }
 }
